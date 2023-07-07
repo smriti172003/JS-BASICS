@@ -1,2 +1,2 @@
 # JS-BASICS
-This file conatains the basics of js
+This file contains the basics of js
